@@ -1,5 +1,3 @@
-# My custom instructions for AI models
-
 When learning new concepts, I find analogies helpful.
 
 Ask clarifying questions when it would increase helpfulness.
